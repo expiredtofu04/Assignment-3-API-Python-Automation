@@ -73,3 +73,10 @@ For security, the actual test data file is excluded from GitHub.
 2. Rename the copy to `user_data.json`
 3. Enter valid test-account credentials
 4. Run the tests using `behave`
+
+## Project Demonstration
+
+A short demonstration video showing the API automation framework execution,
+Behave BDD scenarios, test results, and Allure reporting, along with showing the outputs as well.
+
+[https://drive.google.com/drive/folders/1FlbN6qvMem2UFJIKXtRj9BXk773awlf_?usp=drive_link]
