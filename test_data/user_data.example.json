@@ -1,0 +1,19 @@
+{
+    "name": "API Test User",
+    "email": "your_test_email@example.com",
+    "password": "YOUR_TEST_PASSWORD",
+    "title": "Mrs",
+    "birth_date": "10",
+    "birth_month": "5",
+    "birth_year": "2002",
+    "firstname": "API",
+    "lastname": "Tester",
+    "company": "Test Company",
+    "address1": "Test Address",
+    "address2": "Test Address 2",
+    "country": "India",
+    "zipcode": "700001",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "mobile_number": "YOUR_MOBILE_NUMBER"
+}
